@@ -1,0 +1,9 @@
+{
+  "interfaceFontFamily": "SF Compact Display,Inter",
+  "textFontFamily": "SF Compact Display,Inter,Helvetica Neue",
+  "monospaceFontFamily": "Fira Code,Consolas",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "translucency": true,
+  "showViewHeader": false
+}

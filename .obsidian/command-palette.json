@@ -1,0 +1,7 @@
+{
+  "pinned": [
+    "app:delete-file",
+    "editor:fold-all",
+    "note-composer:extract-heading"
+  ]
+}
