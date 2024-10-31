@@ -1,4 +1,4 @@
-## Differences to default obisidan vault
+## Differences from the standard Obsidian vault
 
 ### Settings
 
