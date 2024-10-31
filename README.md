@@ -1,4 +1,4 @@
-## Different to default obisidan vault
+## Differences to default obisidan vault
 
 ### Settings
 
