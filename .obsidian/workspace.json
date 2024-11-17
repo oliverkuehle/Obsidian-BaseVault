@@ -123,7 +123,13 @@
               "icon": "links-coming-in",
               "title": "Backlinks"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1fda53d2f1ec8c7a",
+        "type": "tabs",
+        "children": [
           {
             "id": "6c573b37317903f4",
             "type": "leaf",
