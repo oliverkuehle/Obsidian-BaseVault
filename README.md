@@ -59,6 +59,13 @@
 - Settings Search
 - Footnote Shortcut (disabled)
 
+### Workspace
+
+- Left sidebar: Search, Files, Tags, Bookmarks
+- Right sidebar: Splitview of Outline & Outgoing links
+- Incoming links: hidden
+- Tags: moved to left sidebar
+
 ### Inlcuded Files
 
 - "extracted-note" Template
