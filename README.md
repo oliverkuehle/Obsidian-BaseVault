@@ -25,6 +25,8 @@
     - Toggle bullet list: CMD+Opt+B
     - Insert callout: CMD+Opt+C
     - Footnote Shortcut: Insert / Navigate Auto-Numbered Footnote: CMD+Opt+G
+    - Toggle Live Preview/Source mode: CMD+E
+    - Toggle reading view: CMD+R
 - New link format: Absolute path in vault
 - Detect all file extensions: true
 - Show line numbers: false
