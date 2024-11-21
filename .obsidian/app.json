@@ -1,5 +1,6 @@
 {
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
-  "showRibbon": false
+  "showRibbon": false,
+  "showLineNumber": true
 }
