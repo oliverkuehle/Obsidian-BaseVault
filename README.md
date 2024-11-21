@@ -28,6 +28,8 @@
     - Footnote Shortcut: Insert / Navigate Auto-Numbered Footnote: CMD+Opt+G
     - Toggle Live Preview/Source mode: CMD+E
     - Toggle reading view: CMD+R
+    - Move line up: Opt+ArrowUp
+    - Move line down: Opt+ArrowDown
 - New link format: Absolute path in vault
 - Detect all file extensions: true
 - Show line numbers: false
