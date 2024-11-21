@@ -18,6 +18,7 @@
     - Open today's daily note
     - Insert template
 - Show ribbon: false
+- Show line numbers: true
 - Native menus: false
 - Translucent window: true
 - Show tab title bar: false
