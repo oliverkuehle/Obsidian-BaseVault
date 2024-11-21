@@ -2,5 +2,8 @@
   "newLinkFormat": "shortest",
   "showUnsupportedFiles": true,
   "showRibbon": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
 }
