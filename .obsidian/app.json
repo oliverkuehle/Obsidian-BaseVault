@@ -1,5 +1,5 @@
 {
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "showUnsupportedFiles": true,
   "showRibbon": false,
   "showLineNumber": true
